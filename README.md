@@ -2,7 +2,7 @@
 
 *Your calls. Your rules.*
 
-![Kinga Logo](kinga_logo.PNG)
+![Kinga Logo](KINGA_logo.PNG)
 
 ## What is Kinga?
 
