@@ -5,7 +5,7 @@
 # Prototype v0.1
 # Part of J'Labo — github.com/jacky-labs-26
 #
-# Author: Jackylen Macavinta
+# Author: Jackylen Macavinta Guillot de Suduiraut
 # Status: In development
 
 def main():
