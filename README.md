@@ -1,7 +1,5 @@
 # Kinga | Ethical Blocker
 
-*Your calls. Your rules.*
-
 ![Kinga Logo](KINGA_logo.PNG)
 
 ## What is Kinga?
