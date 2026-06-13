@@ -32,14 +32,14 @@ The problem is when they call you without invitation.
 Unsolicited means you didn't ask. You didn't sign up.
 You didn't give permission.
 
-That's what Kinga blocks. Not the category — the intrusion.
+That's what Kinga blocks. Not the category. The intrusion.
 
 ## How it works
 
 - Incoming call detected
 - Kinga checks the number against known patterns and databases
 - If unsolicited marketing: call blocked automatically
-- You see a notification: "Kinga blocked this call — Category: Insurance"
+- You see a notification: "Kinga blocked this call | Category: Insurance"
 - Number saved to your personal block list for next time
 - Built-in override because no system is perfect and you always
   have the final say
@@ -56,7 +56,7 @@ That's what Kinga blocks. Not the category — the intrusion.
   - Automotive
   - Other unsolicited
 - Personal block list that grows smarter over time
-- One-tap override — final decision is always yours
+- One-tap override. Final decision is always yours
 - False positive protection — whitelist any number instantly
 - No data sold. Ever.
 
@@ -123,4 +123,4 @@ ideas come from the person who says "that's not for me, but..."
 
 Unsolicited? Your calls. Your rules.
 
-*Kinga — brave enough to fight the battles you shouldn't have to.*
+*Kinga. Brave enough to fight the battles you shouldn't have to.*
