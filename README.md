@@ -1,4 +1,4 @@
-# Kinga — Ethical Blocker
+# Kinga | Ethical Blocker
 
 *Your calls. Your rules.*
 
