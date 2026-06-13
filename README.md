@@ -20,7 +20,7 @@ Every unknown number could be the call that changes things.
 Marketing callers know this and they take advantage of it.
 
 Your time gets wasted. Your focus gets broken.
-And you can't just stop answering — because what if it's real?
+And you can't just stop answering because what if it's real?
 
 Kinga gives you back that choice.
 
@@ -41,7 +41,7 @@ That's what Kinga blocks. Not the category — the intrusion.
 - If unsolicited marketing: call blocked automatically
 - You see a notification: "Kinga blocked this call — Category: Insurance"
 - Number saved to your personal block list for next time
-- Built-in override — because no system is perfect and you always
+- Built-in override because no system is perfect and you always
   have the final say
 
 ## Features (v0.1)
@@ -63,7 +63,7 @@ That's what Kinga blocks. Not the category — the intrusion.
 ## Principles
 
 - Your calls. Your rules.
-- Block with context, not just silence
+- Block with context not just silence
 - Smart enough to protect you. Humble enough to let you decide.
 - Ethical by design. Private by default.
 
@@ -99,7 +99,7 @@ Insurance matters. Energy matters. Healthcare matters.
 What doesn't matter is being called without asking for it.
 
 Block with context. Decide with clarity. Stay in control.
-Your phone should protect your peace, not disturb it.
+Your phone should protect your peace not disturb it.
 
 ## Personal note
 
