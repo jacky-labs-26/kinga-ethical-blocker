@@ -1,6 +1,8 @@
 # Kinga | Ethical Blocker
 
-![Kinga Logo](KINGA_logo.PNG)
+<p align="center">
+  <img src="KINGA_logo.PNG" alt="KINGA Logo" width="300"/>
+</p>
 
 ## What is Kinga?
 
