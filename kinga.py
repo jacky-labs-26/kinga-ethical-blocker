@@ -1,5 +1,5 @@
 # kinga.py
-# Kinga — Ethical Blocker
+# Kinga | Ethical Blocker
 # Your calls. Your rules.
 #
 # Prototype v0.1
