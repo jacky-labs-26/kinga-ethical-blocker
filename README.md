@@ -135,6 +135,6 @@ problems become tools:
 - [ARC](https://github.com/jacky-labs-26/arc-anonymous-return-channel) | anonymous callback channel for masked numbers
 - [J'Fokus](https://github.com/jacky-labs-26/j-fokus) | sustainable automated focus timer
 - [i-SAFE](https://github.com/jacky-labs-26/i-safe) | universal, accessible backup
-- [Red Ping](https://github.com/jacky-labs-26/red-ping) | mission location for humanitarian volunteers
+- [RED Ping](https://github.com/jacky-labs-26/red-ping) | mission location for humanitarian volunteers
 
 → [Explore all JLabs projects](https://github.com/jacky-labs-26)
